@@ -1,3 +1,9 @@
+### My Docs – Real-time Collaborative Document Editing
+##### Tech Stack: Flutter, Bloc, Node.js, Express.js, Socket.IO, MongoDB, Quill
+Developed a real-time collaborative document editor with live text sync, multi-user cursors, and seamless cross-device editing using Socket.IO.
+Built and optimized Express.js + MongoDB APIs for scalable, low-latency collaboration, supporting multiple concurrent users with smooth performance.
+
+
 ##### Realtime Text Highlights & Multi-Cursor Editing
 
 - Watch collaborators type simultaneously in realtime.  
