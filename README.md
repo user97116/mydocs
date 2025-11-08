@@ -4,6 +4,12 @@ Developed a real-time collaborative document editor with live text sync, multi-u
 Built and optimized Express.js + MongoDB APIs for scalable, low-latency collaboration, supporting multiple concurrent users with smooth performance.
 
 
+https://github.com/user-attachments/assets/88f4f911-2403-48ee-8dad-6cef338ea8ab
+
+https://github.com/user-attachments/assets/38b9219b-fd57-44d5-8fe7-7f94775a958b
+
+https://github.com/user-attachments/assets/5e33f68a-4a4b-418a-8b21-6a0f76a530e4
+
 ##### Realtime Text Highlights & Multi-Cursor Editing
 
 - Watch collaborators type simultaneously in realtime.  
